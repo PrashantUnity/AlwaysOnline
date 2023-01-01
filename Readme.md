@@ -12,7 +12,7 @@
 screen shots for reference
 
 
-
+make Sure the extension file preview is checked
 ![image](https://user-images.githubusercontent.com/48068632/210177471-32c51145-9300-4f69-9ae6-fc06e754855c.png)
 
 ![image](https://user-images.githubusercontent.com/48068632/210177479-d17ea6d8-bb3e-437d-9bf3-d46f314dc800.png)
