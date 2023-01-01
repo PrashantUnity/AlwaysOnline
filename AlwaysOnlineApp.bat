@@ -22,6 +22,10 @@ if not exist "%~n0.exe" (
 endlocal & exit /b %errorlevel%
 
 */
+
+// taken help from this stack overflow posts
+//https://stackoverflow.com/questions/553143/compiling-executing-a-c-sharp-source-file-in-command-prompt
+//https://stackoverflow.com/questions/15099523/changing-console-windows-size-throws-argumentoutofrangeexception
 using System;
 using System.Diagnostics;
 using System.Drawing;
