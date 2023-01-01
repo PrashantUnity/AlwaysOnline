@@ -32,7 +32,7 @@ using System.Windows;
 
 namespace MouseMovement
 {
-    internal class PrashantUnity
+    internal class Program
     {
         static long count = 0;
         static readonly string read = "Mouse Movement Interval in Second : ";
