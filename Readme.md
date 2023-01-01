@@ -2,7 +2,7 @@
 
 2 => Copy and paste text from AlwaysOnline.bat file to Temp.bat
 
-3 => Save file and double click file to run the the file
+3 => Save file and double click file to run the file
 
 4 => Open the application in which you want to be online 
 
